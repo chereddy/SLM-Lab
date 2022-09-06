@@ -28,7 +28,7 @@ node_modules/
 *.ini
 
 # Data files
-data/
+data/*.zip
 model/
 nb.py
 *.html
